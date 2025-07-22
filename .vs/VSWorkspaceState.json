@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css"
   ],
-  "SelectedNode": "\\C:\\Users\\mauri\\Source\\Repos\\LeoLider",
+  "SelectedNode": "\\about.html",
   "PreviewInSolutionExplorer": false
 }
